@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Janis Quest</title>
+    <!--<meta name=viewport content="width=device-width, initial-scale=1">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="shortcut icon" type="img/ico" href="img/favicon.ico">
+    <style media="screen">
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136475974-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136475974-1');
+    </script>
+  </head>
+  <body>
+
+    <h1 class="title">Janis Quest</h1>
+
+    <section class="pts-section">
+        <h3><em>Total Points: <span class="pts">0</span></em></h3>
+
+        <h2>
+            <span class="txt">Question</span> <span class="q-num">0</span>
+        </h2>
+
+        <small><em>(<span class="pts-value">0</span> points)</em></small><br><br>
+    </section>
+    
+    <section class="quest-box">
+        <p>Welcome to Janis Quest! The ultimate challenge for Janis party-goers!
+        Please be safe.</p>
+        
+        <p>Each question is worth 10 points *if* you get it right on the first try. 
+        Otherwise the question is worth 5 points. 
+        If you use a Hint, that will cost you another 2 points. 
+        GOOD LUCK!</p>
+
+        <button class="get-started">Get Started</button>
+    </section>
+
+    <input class="answer-box" type="text">
+
+    <button class="btn-next-location">Next Question</button>
+    <button class="btn-im-here">I'm Here</button>
+    <button class="btn-judge-answer">Submit</button>
+
+    <p class="hint"></p>
+        
+    <p class="footer">
+        <br><br>
+        Originally published in 2019<br>
+        Happy Party Janis!<br>
+        Feedback or suggestion? Found a mistake?<br>
+        <a target="_blank" href="mailto:cabezudis-boylequest@yahoo.com?subject=Janis Quest Feedback">EMAIL ME</a>.<br>
+        Don't refresh this page during the game.<br>
+        Lost your place?<br>
+        <a href="#" class="zoom">ZOOM ME BACK</a><br>
+        <span class="zoom-advice">
+            Copy the following url. Change the location and score number to whatever you want. Remember to use the same group (e.g., Group A)<br><br>
+            http://boylequest.com/?loc=3&score=33
+        </span>
+        <br><br>
+    </p>
+    <script src="js/quest.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+</html>
