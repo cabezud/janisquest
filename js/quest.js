@@ -36,7 +36,7 @@ var quest = [
 	},
 	{
 		"f":"Make your way onto Vernon Street and find the Roseville Telephone Museum. ",
-		"q":"The Roseville Telephone Company was founded in 1914 by William Doyle and only had 160 subscribers. In the museum, there is a display of the original telephones designed by Alexander Graham Bell, circa 1876. In the window display, there are pictures of some older telephones. If I were to dial the year the company was founded, what 4-letter word could I make using the corresponding letters (can only use letters once)?",
+		"q":"The Roseville Telephone Company was founded in 1914 by William Doyle and only had 160 subscribers. In the museum, there is a display of the original telephones designed by Alexander Graham Bell, circa 1876. In the window display, there are pictures of some older telephones. If I were to dial the year the company was founded, what 4-letter word could I make using the corresponding letters (can only use letters once and will not use all letters)?",
 		"a":"whig",
 		"h":"The opposing political party to the Tories or use Scrabble Word Finder online.",
 		"r":"Right! Good luck visiting this museum. It’s only open on the first Saturday of the month from 10-2."
