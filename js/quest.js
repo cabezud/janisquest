@@ -86,7 +86,7 @@ var quest = [
 	{
 		"f":"Exit the Civic Center on the north end and cross the street again. Take a right and head to the bus stop area, which will also be the entrance to the walkway through the tunnel on Washington. Take the walkway through and find the Historic Roseville sign at the intersection of Main and Washington.",
 		"q":"Read the plaques. They have interesting information. Anyway, what is the name of the only building left in “old town” from the early years? (IOoOF for the correct format).",
-		"a":"International Order of Odd Fellows",
+		"a":"international order of odd fellows",
 		"h":"Think you can get this one! ",
 		"r":"GREAT! Almost there."
 	}
