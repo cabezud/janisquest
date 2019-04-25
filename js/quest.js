@@ -78,14 +78,14 @@ var quest = [
 	},
 	{
 		"f":"Make your way to the Civic Center. Be careful crossing the street. Stand near the entrance to the building.",
-		"q":"You’ll notice that there are granite pillars/columns that line the front of the Civic Center. These pillars represent a walk through time in Roseville’s history. There are 3 granite boulders on the south end of the time wall to represent the Roseville era before locally recorded history, but each pillar represents some part of Roseville’s recorded history. Plans are in the works to make this a living timeline (with plaques and pictures of historic events). Pretty awesome. On each of the pillars are gold-leafed dates in 40-year increments which are hand-chiseled. Find the sum of all the dates. ",
+		"q":"You’ll notice that there are granite pillars/columns that line the front of the Civic Center. These pillars represent a walk through time in Roseville’s history. There are 3 granite boulders on the south end of the time wall to represent the Roseville era before locally recorded history, but each pillar represents some part of Roseville’s recorded history. Plans are in the works to make this a living timeline (with plaques and pictures of historic events). Pretty awesome. On each of the pillars are gold-leafed dates in 40-year increments which are hand-chiseled. Find the sum of all the dates (comma counts!). ",
 		"a":"20,200",
 		"h":"Just add it again. LOL. Perfect vision with an extra zero at the end.",
 		"r":"Right! Good work :\)"
 	},
 	{
 		"f":"Exit the Civic Center on the north end and cross the street again. Take a right and head to the bus stop area, which will also be the entrance to the walkway through the tunnel on Washington. Take the walkway through and find the Historic Roseville sign at the intersection of Main and Washington.",
-		"q":"Read the plaques. They have interesting information. Anyway, what is the name of the only building left in “old town” from the early years? (IOoOF for the correct format).",
+		"q":"Read the plaques. They have interesting information. Anyway, what is the name of the only building left in “old town” from the early years? (I O o O F for the correct format).",
 		"a":"international order of odd fellows",
 		"h":"Think you can get this one! ",
 		"r":"GREAT! Almost there."
